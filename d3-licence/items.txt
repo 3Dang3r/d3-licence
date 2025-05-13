@@ -1,1 +1,29 @@
 
+
+		["boat_license"] = {
+		["name"] = "boat_license",
+		["label"] = "Boat License",
+		["weight"] = 100,
+		["type"] = "item",
+		["image"] = "arcadeblue.png",
+		["unique"] = false,
+		["useable"] = false,
+		["shouldClose"] = true,
+		["combinable"] = nil,
+		["description"] = 'Boat Driveing License',
+	},
+
+
+	
+		["air_license"] = {
+		["name"] = "air_license",
+		["label"] = "Airplane License",
+		["weight"] = 100,
+		["type"] = "item",
+		["image"] = "arcadegreen.png",
+		["unique"] = false,
+		["useable"] = false,
+		["shouldClose"] = true,
+		["combinable"] = nil,
+		["description"] = 'Airplane Driveing License',
+	},
