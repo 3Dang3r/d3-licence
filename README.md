@@ -1,4 +1,4 @@
-# 🪪 Boat & Air License System - QBCore
+# 📃 Boat & Air License System - QBCore
 
 A lightweight license management system for **QBCore**-based FiveM servers that allows staff to issue or revoke **boat** and **air licenses** via command. This system supports SQL-based persistence and item handling for immersive roleplay experiences.
 
